@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm MohammadJavad
 
-<!--
-**mjnikpour/mjnikpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently refreshing my technical skills and preparing to re-enter the IT job market.
 
-Here are some ideas to get you started:
+## Areas of Interest
+- IT Support
+- Infrastructure Support
+- Linux
+- Networking
+- Docker
+- System Administration
+- DevOps Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Reviewing Linux basics
+- Strengthening networking knowledge
+- Practicing Docker and virtualization
+- Building hands-on lab projects
+- Preparing for IT Support / Infrastructure / DevOps Intern roles
+
+## Background
+- Experience in customer-facing technical work at an internet cafe
+- Internship experience in Linux server, virtualization, and container-based service setup
+- Familiar with Ubuntu Server, VMware, Docker, Nginx, and MySQL in basic practical scenarios
+
+## Goals
+I'm working toward becoming a reliable Infrastructure / DevOps professional through consistent learning and hands-on practice.
